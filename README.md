@@ -7,7 +7,7 @@
 
 ## Submitting your work
 
-Each solution should be in its own file in your repl.it project. Slack the project URL directly to both instructors.
+You may make one repl.it per challenge or simply put all of them into one file and separate them with commented lines. Slack the URL(s) directly to both instructors.
 
 ---
 

@@ -1,13 +1,9 @@
 # JavaScript Control Flow Challenges
 
 ## Getting Started
-* You do not need to fork or clone this repository. Simply follow the instructions. 
-* Use a single repl.it project for all solutions (add a new file for each challenge).
-* Write JavaScript code to obtain the data prompted by each question.
-
-## Submitting your work
-
-You may make one repl.it per challenge or simply put all of them into one file and separate them with commented lines. Slack the URL(s) directly to both instructors.
+* Fork and clone this repository
+* Use the files in the `js` subdirectory for your solutions
+* Run each file by typing `node js/nameOfFile.js`
 
 ---
 

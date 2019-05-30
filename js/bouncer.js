@@ -21,9 +21,8 @@ for (var i  of attendees) {
     if (ofAge > 20) {
         adult.push(i);
     }
-    if (ofAge < 21) {
+    if (ofAge < 21) {  //could just be an else w/ } else { minor.push(i)}
         minor.push(i); 
     }      
 }
-console.log(minor);
-console.log(adult);
+

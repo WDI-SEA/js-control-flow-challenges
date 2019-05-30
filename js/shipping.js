@@ -16,10 +16,8 @@ var truckCapacity = 8;
 var packages = ['skis', 'DVD', 'frisbee', 'computer', 'pizza', 
 'fishing pole', 'car battery', 'stereo', 'furniture', 
 'salad dressing', 'sunshine', 'daydreams'];
-var count = 0;
 
 while (truck.length < truckCapacity) {
-    truck.push(packages.pop() + ' ');
-   
+    truck.push(packages.pop());  
 }
-console.log( 'These packages ' + packages + 'are left. These ones are on the trick ' + truck);
+console.log( 'These packages ' + packages + 'are left. These ones are on the truck ' + truck );

@@ -6,11 +6,15 @@ var packages = [
     'pizza', 'fishing pole', 'car battery', 'stereo', 'furniture', 
     'salad dressing', 'sunshine', 'daydreams'
 ];
-var i = 0;
-while(i < truckCapacity){
-    truck.push(packages[i]);
-    i++;
+// var i = 0;
+// while(i < truckCapacity){
+//     truck.push(packages[i]);
+//     i++;
+// }
+// packages.splice(0, i);
+// console.log(truck);
+// console.log(packages);
+var loadingDock;
+while(truck.length <= truckCapacity){
+    var 
 }
-packages.splice(0, i);
-console.log(truck);
-console.log(packages);

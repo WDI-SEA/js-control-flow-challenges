@@ -18,3 +18,5 @@ var attendees = [
          minors.push(funLover);
      }
   }
+  console.log(adult);
+  console.log(minors);
